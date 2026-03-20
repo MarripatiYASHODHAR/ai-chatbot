@@ -1,6 +1,6 @@
 streamlit
 groq
-faiss-cpu
+python-dotenv
 langchain
 sentence-transformers
 requests
