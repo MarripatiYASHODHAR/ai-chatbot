@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-import faiss
+
 import numpy as np
 import requests
 
