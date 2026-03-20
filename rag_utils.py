@@ -1,4 +1,4 @@
-import faiss
+
 import os
 from models.embeddings import get_embedding
 
