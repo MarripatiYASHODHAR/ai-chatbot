@@ -1,0 +1,20 @@
+Q: How can I access my payslip?
+A: Payslips are available on the company HR portal under 'Documents'.
+
+Q: Where can I find the employee handbook?
+A: The employee handbook is located in the 'Documents' section of the HR portal.
+
+Q: What is the process for applying for leave?
+A: Submit your leave request through the HR portal. Approval will be notified by email.
+
+Q: How do I update my personal information?
+A: You can update your personal information in the HR portal under 'Profile Settings'.
+
+Q: Who do I contact for IT support?
+A: Please contact the IT helpdesk at it-support@company.com or via the IT ticketing system.
+
+Q: How can I request company documents?
+A: Company documents can be requested from HR or downloaded from the HR portal.
+
+Q: What are the company’s remote work policies?
+A: Remote work is allowed with manager approval. Refer to the HR portal for guidelines.
